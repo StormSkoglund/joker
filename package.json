@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/StormSkoglund/joker/issues"
   },
-  "homepage": "https://github.com/StormSkoglund/joker#readme"
+  "homepage": "https://github.com/StormSkoglund/joker#readme",
+  "type": "module"
 }
