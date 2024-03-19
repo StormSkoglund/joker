@@ -1,5 +1,5 @@
 {
-  "name": "joker",
+  "name": "original-joker",
   "version": "0.0.5",
   "description": "A test setup for a work environment",
   "main": "src/index.js",
@@ -27,6 +27,7 @@
     "prettier": "^3.2.5"
   },
   "dependencies": {
-    "give-me-a-joke": "^0.5.1"
+    "give-me-a-joke": "^0.5.1",
+    "original-joker": "^0.0.5"
   }
 }
